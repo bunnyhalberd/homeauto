@@ -154,14 +154,14 @@
       "state": {
         "on": true,
         "bri": 43,
-        "hue": 13307,
-        "sat": 198,
+        "hue": 48798,
+        "sat": 243,
         "effect": "none",
         "xy": [
-          0.2207,
-          0.079
+          0.2209,
+          0.0794
         ],
-        "ct": 447,
+        "ct": 153,
         "alert": "none",
         "colormode": "xy",
         "mode": "homeautomation",
@@ -304,14 +304,14 @@
       "state": {
         "on": true,
         "bri": 99,
-        "hue": 10125,
-        "sat": 100,
+        "hue": 48798,
+        "sat": 243,
         "effect": "none",
         "xy": [
-          0.2207,
-          0.079
+          0.2209,
+          0.0794
         ],
-        "ct": 359,
+        "ct": 153,
         "alert": "none",
         "colormode": "xy",
         "mode": "homeautomation",
@@ -379,14 +379,14 @@
       "state": {
         "on": true,
         "bri": 73,
-        "hue": 7566,
-        "sat": 197,
+        "hue": 49397,
+        "sat": 254,
         "effect": "none",
         "xy": [
-          0.2207,
-          0.079
+          0.2202,
+          0.08
         ],
-        "ct": 447,
+        "ct": 153,
         "alert": "none",
         "colormode": "xy",
         "mode": "homeautomation",
@@ -685,14 +685,14 @@
       "state": {
         "on": true,
         "bri": 140,
-        "hue": 10674,
-        "sat": 253,
+        "hue": 49379,
+        "sat": 204,
         "effect": "none",
         "xy": [
-          0.2514,
-          0.1384
+          0.2513,
+          0.1382
         ],
-        "ct": 392,
+        "ct": 153,
         "alert": "none",
         "colormode": "xy",
         "mode": "homeautomation",
@@ -760,14 +760,14 @@
       "state": {
         "on": true,
         "bri": 170,
-        "hue": 5964,
-        "sat": 100,
+        "hue": 8369,
+        "sat": 142,
         "effect": "none",
         "xy": [
-          0.4592,
-          0.4102
+          0.459,
+          0.4101
         ],
-        "ct": 359,
+        "ct": 369,
         "alert": "none",
         "colormode": "xy",
         "mode": "homeautomation",
@@ -837,14 +837,14 @@
       "state": {
         "on": true,
         "bri": 254,
-        "hue": 7566,
-        "sat": 197,
+        "hue": 47104,
+        "sat": 254,
         "effect": "none",
         "xy": [
-          0.1364,
-          0.0403
+          0.1532,
+          0.0475
         ],
-        "ct": 447,
+        "ct": 153,
         "alert": "none",
         "colormode": "xy",
         "mode": "homeautomation",
@@ -907,12 +907,12 @@
       "state": {
         "on": true,
         "bri": 254,
-        "hue": 49301,
+        "hue": 47104,
         "sat": 254,
         "effect": "none",
         "xy": [
-          0.1364,
-          0.0403
+          0.1532,
+          0.0475
         ],
         "ct": 153,
         "alert": "none",
@@ -977,12 +977,12 @@
       "state": {
         "on": true,
         "bri": 254,
-        "hue": 48822,
+        "hue": 47104,
         "sat": 254,
         "effect": "none",
         "xy": [
-          0.1364,
-          0.0403
+          0.1532,
+          0.0475
         ],
         "ct": 153,
         "alert": "none",
@@ -1047,12 +1047,12 @@
       "state": {
         "on": true,
         "bri": 254,
-        "hue": 49250,
+        "hue": 47104,
         "sat": 254,
         "effect": "none",
         "xy": [
-          0.1364,
-          0.0403
+          0.1532,
+          0.0475
         ],
         "ct": 153,
         "alert": "none",
@@ -1187,14 +1187,14 @@
       "state": {
         "on": true,
         "bri": 102,
-        "hue": 7566,
-        "sat": 197,
+        "hue": 5964,
+        "sat": 100,
         "effect": "none",
         "xy": [
           0.455,
           0.3857
         ],
-        "ct": 447,
+        "ct": 359,
         "alert": "none",
         "colormode": "xy",
         "mode": "homeautomation",
@@ -1257,14 +1257,14 @@
       "state": {
         "on": true,
         "bri": 102,
-        "hue": 7566,
-        "sat": 197,
+        "hue": 5964,
+        "sat": 100,
         "effect": "none",
         "xy": [
           0.455,
           0.3857
         ],
-        "ct": 447,
+        "ct": 359,
         "alert": "none",
         "colormode": "xy",
         "mode": "homeautomation",
@@ -1327,14 +1327,14 @@
       "state": {
         "on": true,
         "bri": 81,
-        "hue": 49700,
-        "sat": 254,
+        "hue": 5964,
+        "sat": 100,
         "effect": "none",
         "xy": [
           0.455,
           0.3857
         ],
-        "ct": 153,
+        "ct": 359,
         "alert": "none",
         "colormode": "xy",
         "mode": "homeautomation",
@@ -1397,11 +1397,11 @@
       "state": {
         "on": true,
         "bri": 109,
-        "hue": 48740,
-        "sat": 254,
+        "hue": 4106,
+        "sat": 253,
         "effect": "none",
         "xy": [
-          0.6073,
+          0.607,
           0.3711
         ],
         "ct": 153,
@@ -1771,14 +1771,14 @@
       "state": {
         "on": true,
         "bri": 155,
-        "hue": 5964,
-        "sat": 100,
+        "hue": 47104,
+        "sat": 254,
         "effect": "none",
         "xy": [
-          0.1374,
-          0.0408
+          0.1532,
+          0.0475
         ],
-        "ct": 359,
+        "ct": 153,
         "alert": "none",
         "colormode": "xy",
         "mode": "homeautomation",
@@ -1938,14 +1938,14 @@
       "action": {
         "on": true,
         "bri": 140,
-        "hue": 10674,
-        "sat": 253,
+        "hue": 49379,
+        "sat": 204,
         "effect": "none",
         "xy": [
-          0.2514,
-          0.1384
+          0.2513,
+          0.1382
         ],
-        "ct": 392,
+        "ct": 153,
         "alert": "none",
         "colormode": "xy"
       }
@@ -1973,14 +1973,14 @@
       "action": {
         "on": true,
         "bri": 73,
-        "hue": 7566,
-        "sat": 197,
+        "hue": 49397,
+        "sat": 254,
         "effect": "none",
         "xy": [
-          0.2207,
-          0.079
+          0.2202,
+          0.08
         ],
-        "ct": 447,
+        "ct": 153,
         "alert": "none",
         "colormode": "xy"
       }
@@ -2035,14 +2035,14 @@
       "action": {
         "on": true,
         "bri": 102,
-        "hue": 7566,
-        "sat": 197,
+        "hue": 5964,
+        "sat": 100,
         "effect": "none",
         "xy": [
           0.455,
           0.3857
         ],
-        "ct": 447,
+        "ct": 359,
         "alert": "none",
         "colormode": "xy"
       }
@@ -2126,14 +2126,14 @@
       "action": {
         "on": true,
         "bri": 170,
-        "hue": 5964,
-        "sat": 100,
+        "hue": 8369,
+        "sat": 142,
         "effect": "none",
         "xy": [
-          0.4592,
-          0.4102
+          0.459,
+          0.4101
         ],
-        "ct": 359,
+        "ct": 369,
         "alert": "none",
         "colormode": "xy"
       }
@@ -2155,14 +2155,14 @@
       "action": {
         "on": true,
         "bri": 155,
-        "hue": 5964,
-        "sat": 100,
+        "hue": 47104,
+        "sat": 254,
         "effect": "none",
         "xy": [
-          0.1374,
-          0.0408
+          0.1532,
+          0.0475
         ],
-        "ct": 359,
+        "ct": 153,
         "alert": "none",
         "colormode": "xy"
       }
@@ -2197,8 +2197,8 @@
     "gateway": "192.168.7.1",
     "proxyaddress": "none",
     "proxyport": 0,
-    "UTC": "2020-12-05T22:03:21",
-    "localtime": "2020-12-05T14:03:21",
+    "UTC": "2020-12-05T22:17:49",
+    "localtime": "2020-12-05T14:17:49",
     "timezone": "America/Los_Angeles",
     "modelid": "BSB002",
     "datastoreversion": "98",
@@ -2257,48 +2257,8 @@
         "create date": "2016-09-17T21:23:35",
         "name": "hue_ios_app#April's iPhone 6"
       },
-      "d08b419f-9760-4e44-9dc8-a1cf44251d72": {
-        "last use date": "2020-11-08T03:05:30",
-        "create date": "2016-09-17T23:09:36",
-        "name": "OnSwitch#April's iPhone 6"
-      },
-      "0b7e4368-d8d5-48fe-b9f6-e810f42d59ae": {
-        "last use date": "2016-10-15T23:59:10",
-        "create date": "2016-10-15T23:42:47",
-        "name": "OnSwitch#Bunny's iPad"
-      },
-      "4bb7f5f0-ea9b-49ec-85ad-5443760a71b6": {
-        "last use date": "2016-11-30T05:29:19",
-        "create date": "2016-11-05T18:45:11",
-        "name": "ColorsForHue#macbook-pro-2.local"
-      },
-      "d6c57a31-d613-46a4-b0b5-b19abb87d755": {
-        "last use date": "2016-12-11T20:17:21",
-        "create date": "2016-12-11T20:07:30",
-        "name": "Echo"
-      },
-      "7478aa24-2aa9-4543-9e71-782559ea0064": {
-        "last use date": "2017-03-10T12:59:01",
-        "create date": "2016-12-11T20:07:30",
-        "name": "Echo"
-      },
-      "7c0b39a5-878b-4e40-815c-f43b85ab30a3": {
-        "last use date": "2017-04-23T07:24:05",
-        "create date": "2017-04-23T06:47:19",
-        "name": "Ambify_Mac"
-      },
-      "1b455662-c059-43f3-acd3-94b9a2dfe248": {
-        "last use date": "2018-08-05T19:35:19",
-        "create date": "2018-08-03T06:12:49",
-        "name": "ColorsForHue#cottontail.local"
-      },
-      "c46030d2-a134-4002-aae4-d5a3a240e9ae": {
-        "last use date": "2019-09-30T06:23:54",
-        "create date": "2019-05-22T04:37:46",
-        "name": "HueThunder#SomeDevice"
-      },
       "GA9vM13aYHH3HZ5QkWpTWzdwTmTUwP9jmBUYWWD6": {
-        "last use date": "2020-12-05T22:03:21",
+        "last use date": "2020-12-05T22:17:49",
         "create date": "2020-11-29T23:37:13",
         "name": "sandbox#cottontail"
       },
@@ -2308,7 +2268,7 @@
         "name": "home-assistant#april-s-nest"
       },
       "42d9e358-c327-4cc9-b8bb-07cee21df0b8": {
-        "last use date": "2020-12-05T22:03:17",
+        "last use date": "2020-12-05T22:17:47",
         "create date": "2020-12-03T01:53:55",
         "name": "home-assistant#home"
       }
@@ -3650,7 +3610,7 @@
       "locked": true,
       "appdata": {},
       "picture": "",
-      "lastupdated": "2020-12-05T21:50:02",
+      "lastupdated": "2020-12-05T22:11:03",
       "version": 2
     },
     "w4zxuvTxluCJ5cN": {
@@ -4706,8 +4666,8 @@
       "name": "18:",
       "owner": "7a06d8f9-7322-48fd-be62-9f663ac9ab03",
       "created": "2020-05-08T18:56:55",
-      "lasttriggered": "2020-12-05T21:55:36",
-      "timestriggered": 36,
+      "lasttriggered": "2020-12-05T22:13:58",
+      "timestriggered": 37,
       "status": "enabled",
       "recycle": true,
       "conditions": [
@@ -4808,8 +4768,8 @@
       "name": "22:",
       "owner": "7a06d8f9-7322-48fd-be62-9f663ac9ab03",
       "created": "2020-05-08T18:56:55",
-      "lasttriggered": "2020-12-05T21:50:02",
-      "timestriggered": 15,
+      "lasttriggered": "2020-12-05T22:11:03",
+      "timestriggered": 16,
       "status": "enabled",
       "recycle": true,
       "conditions": [
@@ -4998,8 +4958,8 @@
       "name": "26:",
       "owner": "7a06d8f9-7322-48fd-be62-9f663ac9ab03",
       "created": "2020-05-08T18:56:55",
-      "lasttriggered": "2020-12-05T21:50:32",
-      "timestriggered": 14,
+      "lasttriggered": "2020-12-05T22:11:33",
+      "timestriggered": 15,
       "status": "enabled",
       "recycle": true,
       "conditions": [
@@ -6034,7 +5994,7 @@
       },
       "config": {
         "on": true,
-        "battery": 95,
+        "battery": 94,
         "reachable": true,
         "pending": []
       },
@@ -6156,7 +6116,7 @@
       },
       "config": {
         "on": true,
-        "battery": 98,
+        "battery": 97,
         "reachable": true,
         "alert": "none",
         "sensitivity": 1,
@@ -6179,10 +6139,10 @@
     },
     "5": {
       "state": {
-        "lightlevel": 12410,
+        "lightlevel": 10635,
         "dark": false,
-        "daylight": true,
-        "lastupdated": "2020-12-05T21:58:52"
+        "daylight": false,
+        "lastupdated": "2020-12-05T22:13:51"
       },
       "swupdate": {
         "state": "noupdates",
@@ -6190,7 +6150,7 @@
       },
       "config": {
         "on": true,
-        "battery": 98,
+        "battery": 97,
         "reachable": true,
         "alert": "none",
         "tholddark": 4313,
@@ -6214,7 +6174,7 @@
     "6": {
       "state": {
         "temperature": 1811,
-        "lastupdated": "2020-12-05T21:58:43"
+        "lastupdated": "2020-12-05T22:13:41"
       },
       "swupdate": {
         "state": "noupdates",
@@ -6222,7 +6182,7 @@
       },
       "config": {
         "on": true,
-        "battery": 98,
+        "battery": 97,
         "reachable": true,
         "alert": "none",
         "ledindication": false,
@@ -6244,7 +6204,7 @@
     "8": {
       "state": {
         "presence": false,
-        "lastupdated": "2020-12-05T22:01:48"
+        "lastupdated": "2020-12-05T22:15:28"
       },
       "swupdate": {
         "state": "noupdates",
@@ -6275,10 +6235,10 @@
     },
     "9": {
       "state": {
-        "lightlevel": 10992,
+        "lightlevel": 10466,
         "dark": true,
         "daylight": false,
-        "lastupdated": "2020-12-05T22:00:45"
+        "lastupdated": "2020-12-05T22:15:43"
       },
       "swupdate": {
         "state": "noupdates",
@@ -6309,8 +6269,8 @@
     },
     "10": {
       "state": {
-        "temperature": 1911,
-        "lastupdated": "2020-12-05T22:02:25"
+        "temperature": 1925,
+        "lastupdated": "2020-12-05T22:17:23"
       },
       "swupdate": {
         "state": "noupdates",
@@ -6340,7 +6300,7 @@
     "13": {
       "state": {
         "status": 1,
-        "lastupdated": "2020-12-05T21:55:36"
+        "lastupdated": "2020-12-05T22:13:58"
       },
       "config": {
         "on": true,
@@ -6357,7 +6317,7 @@
     "14": {
       "state": {
         "status": 0,
-        "lastupdated": "2020-12-05T21:55:36"
+        "lastupdated": "2020-12-05T22:13:58"
       },
       "config": {
         "on": true,
@@ -6473,10 +6433,10 @@
     },
     "20": {
       "state": {
-        "lightlevel": 22216,
+        "lightlevel": 21797,
         "dark": false,
         "daylight": false,
-        "lastupdated": "2020-12-05T22:01:22"
+        "lastupdated": "2020-12-05T22:16:20"
       },
       "swupdate": {
         "state": "noupdates",
@@ -6507,8 +6467,8 @@
     },
     "21": {
       "state": {
-        "temperature": 1765,
-        "lastupdated": "2020-12-05T22:01:16"
+        "temperature": 1779,
+        "lastupdated": "2020-12-05T22:16:15"
       },
       "swupdate": {
         "state": "noupdates",
