@@ -22,7 +22,7 @@
         "lastinstall": "2020-03-10T21:27:12"
       },
       "type": "Extended color light",
-      "name": "Window Light",
+      "name": "Living Room Window Lamp",
       "modelid": "LCT007",
       "manufacturername": "Signify Netherlands B.V.",
       "productname": "Hue color lamp",
@@ -87,7 +87,7 @@
           0.3857
         ],
         "ct": 359,
-        "alert": "none",
+        "alert": "select",
         "colormode": "xy",
         "mode": "homeautomation",
         "reachable": true
@@ -97,7 +97,7 @@
         "lastinstall": "2020-03-10T21:27:06"
       },
       "type": "Extended color light",
-      "name": "Glass Table Lamp",
+      "name": "Living Room Glass Table Lamp",
       "modelid": "LCT007",
       "manufacturername": "Signify Netherlands B.V.",
       "productname": "Hue color lamp",
@@ -162,7 +162,7 @@
           0.0794
         ],
         "ct": 153,
-        "alert": "none",
+        "alert": "select",
         "colormode": "xy",
         "mode": "homeautomation",
         "reachable": true
@@ -172,7 +172,7 @@
         "lastinstall": "2020-03-10T21:26:22"
       },
       "type": "Extended color light",
-      "name": "Filing Cabinet Lamp",
+      "name": "Office Filing Cabinet Lamp",
       "modelid": "LCT007",
       "manufacturername": "Signify Netherlands B.V.",
       "productname": "Hue color lamp",
@@ -237,7 +237,7 @@
           0.3857
         ],
         "ct": 359,
-        "alert": "none",
+        "alert": "select",
         "colormode": "xy",
         "mode": "homeautomation",
         "reachable": true
@@ -247,7 +247,7 @@
         "lastinstall": "2020-03-10T21:27:01"
       },
       "type": "Extended color light",
-      "name": "Corner Lamp",
+      "name": "Living Room Corner Lamp",
       "modelid": "LCT007",
       "manufacturername": "Signify Netherlands B.V.",
       "productname": "Hue color lamp",
@@ -312,7 +312,7 @@
           0.0794
         ],
         "ct": 153,
-        "alert": "none",
+        "alert": "select",
         "colormode": "xy",
         "mode": "homeautomation",
         "reachable": true
@@ -322,7 +322,7 @@
         "lastinstall": "2020-03-10T21:26:56"
       },
       "type": "Extended color light",
-      "name": "Left Nightstand Lamp",
+      "name": "Bedroom Left Nightstand Lamp",
       "modelid": "LCT007",
       "manufacturername": "Signify Netherlands B.V.",
       "productname": "Hue color lamp",
@@ -387,7 +387,7 @@
           0.08
         ],
         "ct": 153,
-        "alert": "none",
+        "alert": "select",
         "colormode": "xy",
         "mode": "homeautomation",
         "reachable": true
@@ -397,7 +397,7 @@
         "lastinstall": "2020-03-10T21:26:42"
       },
       "type": "Extended color light",
-      "name": "Computer Table Lamp",
+      "name": "Office Computer Table Lamp",
       "modelid": "LCT014",
       "manufacturername": "Signify Netherlands B.V.",
       "productname": "Hue color lamp",
@@ -464,7 +464,7 @@
           0.1697
         ],
         "ct": 283,
-        "alert": "none",
+        "alert": "select",
         "colormode": "xy",
         "mode": "homeautomation",
         "reachable": true
@@ -474,7 +474,7 @@
         "lastinstall": "2020-03-10T21:26:50"
       },
       "type": "Extended color light",
-      "name": "TV Backlighting",
+      "name": "Living Room TV Backlighting",
       "modelid": "LST002",
       "manufacturername": "Signify Netherlands B.V.",
       "productname": "Hue lightstrip plus",
@@ -539,7 +539,7 @@
           0.08
         ],
         "ct": 153,
-        "alert": "none",
+        "alert": "select",
         "colormode": "xy",
         "mode": "homeautomation",
         "reachable": true
@@ -549,7 +549,7 @@
         "lastinstall": "2020-03-10T21:26:31"
       },
       "type": "Extended color light",
-      "name": "Right Nightstand Lamp",
+      "name": "Bedroom Right Nightstand Lamp",
       "modelid": "LCT014",
       "manufacturername": "Signify Netherlands B.V.",
       "productname": "Hue color lamp",
@@ -693,7 +693,7 @@
           0.1382
         ],
         "ct": 153,
-        "alert": "none",
+        "alert": "select",
         "colormode": "xy",
         "mode": "homeautomation",
         "reachable": true
@@ -703,7 +703,7 @@
         "lastinstall": "2020-03-10T21:26:45"
       },
       "type": "Extended color light",
-      "name": "Sofa",
+      "name": "Living Room Sofa",
       "modelid": "LST002",
       "manufacturername": "Signify Netherlands B.V.",
       "productname": "Hue lightstrip plus",
@@ -768,7 +768,7 @@
           0.4101
         ],
         "ct": 369,
-        "alert": "none",
+        "alert": "select",
         "colormode": "xy",
         "mode": "homeautomation",
         "reachable": true
@@ -778,7 +778,7 @@
         "lastinstall": "2020-03-10T21:26:28"
       },
       "type": "Extended color light",
-      "name": "Bunny Lamp",
+      "name": "Guest Room Bunny Lamp",
       "modelid": "LCT016",
       "manufacturername": "Signify Netherlands B.V.",
       "productname": "Hue color lamp",
@@ -845,7 +845,7 @@
           0.0475
         ],
         "ct": 153,
-        "alert": "none",
+        "alert": "select",
         "colormode": "xy",
         "mode": "homeautomation",
         "reachable": true
@@ -855,7 +855,7 @@
         "lastinstall": "2020-05-11T21:24:41"
       },
       "type": "Extended color light",
-      "name": "Overhead West",
+      "name": "Office Overhead West",
       "modelid": "LCA003",
       "manufacturername": "Signify Netherlands B.V.",
       "productname": "Hue color Lamp",
@@ -915,7 +915,7 @@
           0.0475
         ],
         "ct": 153,
-        "alert": "none",
+        "alert": "select",
         "colormode": "xy",
         "mode": "homeautomation",
         "reachable": true
@@ -925,7 +925,7 @@
         "lastinstall": "2020-05-11T21:23:27"
       },
       "type": "Extended color light",
-      "name": "Overhead North",
+      "name": "Office Overhead North",
       "modelid": "LCA003",
       "manufacturername": "Signify Netherlands B.V.",
       "productname": "Hue color Lamp",
@@ -985,7 +985,7 @@
           0.0475
         ],
         "ct": 153,
-        "alert": "none",
+        "alert": "select",
         "colormode": "xy",
         "mode": "homeautomation",
         "reachable": true
@@ -995,7 +995,7 @@
         "lastinstall": "2020-05-11T21:24:32"
       },
       "type": "Extended color light",
-      "name": "Overhead East",
+      "name": "Office Overhead East",
       "modelid": "LCA003",
       "manufacturername": "Signify Netherlands B.V.",
       "productname": "Hue color Lamp",
@@ -1055,7 +1055,7 @@
           0.0475
         ],
         "ct": 153,
-        "alert": "none",
+        "alert": "select",
         "colormode": "xy",
         "mode": "homeautomation",
         "reachable": true
@@ -1065,7 +1065,7 @@
         "lastinstall": "2020-05-11T21:24:02"
       },
       "type": "Extended color light",
-      "name": "Overhead South",
+      "name": "Office Overhead South",
       "modelid": "LCA003",
       "manufacturername": "Signify Netherlands B.V.",
       "productname": "Hue color Lamp",
@@ -1115,8 +1115,8 @@
     },
     "16": {
       "state": {
-        "on": false,
-        "bri": 254,
+        "on": true,
+        "bri": 161,
         "hue": 5279,
         "sat": 103,
         "effect": "none",
@@ -1135,7 +1135,7 @@
         "lastinstall": "2020-04-19T21:30:51"
       },
       "type": "Extended color light",
-      "name": "Front Porch",
+      "name": "Front Porch Light",
       "modelid": "LCB001",
       "manufacturername": "Signify Netherlands B.V.",
       "productname": "Hue color downlight",
@@ -1195,7 +1195,7 @@
           0.3857
         ],
         "ct": 359,
-        "alert": "none",
+        "alert": "select",
         "colormode": "xy",
         "mode": "homeautomation",
         "reachable": true
@@ -1205,7 +1205,7 @@
         "lastinstall": "2020-04-19T21:30:46"
       },
       "type": "Extended color light",
-      "name": "Counter North",
+      "name": "Kitchen Counter North",
       "modelid": "LCB001",
       "manufacturername": "Signify Netherlands B.V.",
       "productname": "Hue color downlight",
@@ -1265,7 +1265,7 @@
           0.3857
         ],
         "ct": 359,
-        "alert": "none",
+        "alert": "select",
         "colormode": "xy",
         "mode": "homeautomation",
         "reachable": true
@@ -1275,7 +1275,7 @@
         "lastinstall": "2020-04-20T00:54:25"
       },
       "type": "Extended color light",
-      "name": "Counter South",
+      "name": "Kitchen Counter South",
       "modelid": "LCB001",
       "manufacturername": "Signify Netherlands B.V.",
       "productname": "Hue color downlight",
@@ -1335,7 +1335,7 @@
           0.3857
         ],
         "ct": 359,
-        "alert": "none",
+        "alert": "select",
         "colormode": "xy",
         "mode": "homeautomation",
         "reachable": true
@@ -1345,7 +1345,7 @@
         "lastinstall": "2020-04-20T00:53:49"
       },
       "type": "Extended color light",
-      "name": "Pantry Overhead",
+      "name": "Kitchen Pantry Overhead",
       "modelid": "LCB001",
       "manufacturername": "Signify Netherlands B.V.",
       "productname": "Hue color downlight",
@@ -1405,7 +1405,7 @@
           0.3711
         ],
         "ct": 153,
-        "alert": "none",
+        "alert": "select",
         "colormode": "xy",
         "mode": "homeautomation",
         "reachable": true
@@ -1415,7 +1415,7 @@
         "lastinstall": "2020-05-08T21:42:02"
       },
       "type": "Extended color light",
-      "name": "Fireplace Backlight",
+      "name": "Living Room Fireplace Backlight",
       "modelid": "LCT024",
       "manufacturername": "Signify Netherlands B.V.",
       "productname": "Hue play",
@@ -1618,7 +1618,7 @@
     "25": {
       "state": {
         "on": false,
-        "alert": "none",
+        "alert": "select",
         "mode": "homeautomation",
         "reachable": true
       },
@@ -1656,7 +1656,7 @@
     "26": {
       "state": {
         "on": true,
-        "alert": "none",
+        "alert": "select",
         "mode": "homeautomation",
         "reachable": true
       },
@@ -1694,7 +1694,7 @@
     "27": {
       "state": {
         "on": true,
-        "alert": "none",
+        "alert": "select",
         "mode": "homeautomation",
         "reachable": true
       },
@@ -1703,7 +1703,7 @@
         "lastinstall": "2020-08-09T21:17:55"
       },
       "type": "On/Off plug-in unit",
-      "name": "Hallway Fairy Lights",
+      "name": "Hallway Stars",
       "modelid": "LOM004",
       "manufacturername": "Signify Netherlands B.V.",
       "productname": "Hue Smart plug",
@@ -1946,7 +1946,7 @@
           0.1382
         ],
         "ct": 153,
-        "alert": "none",
+        "alert": "select",
         "colormode": "xy"
       }
     },
@@ -1981,7 +1981,7 @@
           0.08
         ],
         "ct": 153,
-        "alert": "none",
+        "alert": "select",
         "colormode": "xy"
       }
     },
@@ -2013,7 +2013,7 @@
           0.08
         ],
         "ct": 153,
-        "alert": "none",
+        "alert": "select",
         "colormode": "xy"
       }
     },
@@ -2043,7 +2043,7 @@
           0.3857
         ],
         "ct": 359,
-        "alert": "none",
+        "alert": "select",
         "colormode": "xy"
       }
     },
@@ -2062,7 +2062,7 @@
       "class": "Living room",
       "action": {
         "on": true,
-        "alert": "none"
+        "alert": "select"
       }
     },
     "12": {
@@ -2073,14 +2073,14 @@
       "sensors": [],
       "type": "Room",
       "state": {
-        "all_on": false,
-        "any_on": false
+        "all_on": true,
+        "any_on": true
       },
       "recycle": false,
       "class": "Other",
       "action": {
-        "on": false,
-        "bri": 254,
+        "on": true,
+        "bri": 161,
         "hue": 5279,
         "sat": 103,
         "effect": "none",
@@ -2134,7 +2134,7 @@
           0.4101
         ],
         "ct": 369,
-        "alert": "none",
+        "alert": "select",
         "colormode": "xy"
       }
     },
@@ -2197,8 +2197,8 @@
     "gateway": "192.168.7.1",
     "proxyaddress": "none",
     "proxyport": 0,
-    "UTC": "2020-12-05T22:17:49",
-    "localtime": "2020-12-05T14:17:49",
+    "UTC": "2020-12-06T01:15:10",
+    "localtime": "2020-12-05T17:15:10",
     "timezone": "America/Los_Angeles",
     "modelid": "BSB002",
     "datastoreversion": "98",
@@ -2253,12 +2253,17 @@
     "starterkitid": "",
     "whitelist": {
       "7a06d8f9-7322-48fd-be62-9f663ac9ab03": {
-        "last use date": "2020-12-05T03:53:46",
+        "last use date": "2020-12-06T00:35:33",
         "create date": "2016-09-17T21:23:35",
         "name": "hue_ios_app#April's iPhone 6"
       },
+      "ad1fc702-a81c-427b-9b9c-2cf77193c280": {
+        "last use date": "2020-12-06T01:15:10",
+        "create date": "2020-12-06T00:38:25",
+        "name": "home-assistant#home"
+      },
       "GA9vM13aYHH3HZ5QkWpTWzdwTmTUwP9jmBUYWWD6": {
-        "last use date": "2020-12-05T22:17:49",
+        "last use date": "2020-12-06T01:15:10",
         "create date": "2020-11-29T23:37:13",
         "name": "sandbox#cottontail"
       },
@@ -2268,7 +2273,7 @@
         "name": "home-assistant#april-s-nest"
       },
       "42d9e358-c327-4cc9-b8bb-07cee21df0b8": {
-        "last use date": "2020-12-05T22:17:47",
+        "last use date": "2020-12-06T00:31:27",
         "create date": "2020-12-03T01:53:55",
         "name": "home-assistant#home"
       }
@@ -3610,7 +3615,7 @@
       "locked": true,
       "appdata": {},
       "picture": "",
-      "lastupdated": "2020-12-05T22:11:03",
+      "lastupdated": "2020-12-06T01:06:51",
       "version": 2
     },
     "w4zxuvTxluCJ5cN": {
@@ -4666,8 +4671,8 @@
       "name": "18:",
       "owner": "7a06d8f9-7322-48fd-be62-9f663ac9ab03",
       "created": "2020-05-08T18:56:55",
-      "lasttriggered": "2020-12-05T22:13:58",
-      "timestriggered": 37,
+      "lasttriggered": "2020-12-06T01:10:40",
+      "timestriggered": 44,
       "status": "enabled",
       "recycle": true,
       "conditions": [
@@ -4768,8 +4773,8 @@
       "name": "22:",
       "owner": "7a06d8f9-7322-48fd-be62-9f663ac9ab03",
       "created": "2020-05-08T18:56:55",
-      "lasttriggered": "2020-12-05T22:11:03",
-      "timestriggered": 16,
+      "lasttriggered": "2020-12-06T01:06:51",
+      "timestriggered": 23,
       "status": "enabled",
       "recycle": true,
       "conditions": [
@@ -4958,8 +4963,8 @@
       "name": "26:",
       "owner": "7a06d8f9-7322-48fd-be62-9f663ac9ab03",
       "created": "2020-05-08T18:56:55",
-      "lasttriggered": "2020-12-05T22:11:33",
-      "timestriggered": 15,
+      "lasttriggered": "2020-12-06T00:52:49",
+      "timestriggered": 21,
       "status": "enabled",
       "recycle": true,
       "conditions": [
@@ -5028,8 +5033,8 @@
       "name": "28:",
       "owner": "7a06d8f9-7322-48fd-be62-9f663ac9ab03",
       "created": "2020-05-08T18:56:55",
-      "lasttriggered": "2020-12-05T21:33:33",
-      "timestriggered": 50,
+      "lasttriggered": "2020-12-06T01:06:56",
+      "timestriggered": 57,
       "status": "enabled",
       "recycle": true,
       "conditions": [
@@ -5449,8 +5454,8 @@
       "name": "28:",
       "owner": "7a06d8f9-7322-48fd-be62-9f663ac9ab03",
       "created": "2020-05-08T19:11:20",
-      "lasttriggered": "2020-12-05T21:33:33",
-      "timestriggered": 7,
+      "lasttriggered": "2020-12-06T01:06:56",
+      "timestriggered": 10,
       "status": "enabled",
       "recycle": true,
       "conditions": [
@@ -5547,8 +5552,8 @@
       "name": "17:",
       "owner": "7a06d8f9-7322-48fd-be62-9f663ac9ab03",
       "created": "2020-12-03T22:46:43",
-      "lasttriggered": "2020-12-05T00:21:12",
-      "timestriggered": 6,
+      "lasttriggered": "2020-12-06T00:11:10",
+      "timestriggered": 7,
       "status": "enabled",
       "recycle": true,
       "conditions": [
@@ -5938,8 +5943,8 @@
       "name": "29:",
       "owner": "7a06d8f9-7322-48fd-be62-9f663ac9ab03",
       "created": "2020-12-03T22:46:43",
-      "lasttriggered": "2020-12-05T21:33:33",
-      "timestriggered": 8,
+      "lasttriggered": "2020-12-06T01:06:56",
+      "timestriggered": 15,
       "status": "enabled",
       "recycle": true,
       "conditions": [
@@ -5968,8 +5973,8 @@
   "sensors": {
     "1": {
       "state": {
-        "daylight": true,
-        "lastupdated": "2020-12-05T16:12:00"
+        "daylight": false,
+        "lastupdated": "2020-12-05T23:48:00"
       },
       "config": {
         "on": true,
@@ -6116,7 +6121,7 @@
       },
       "config": {
         "on": true,
-        "battery": 97,
+        "battery": 98,
         "reachable": true,
         "alert": "none",
         "sensitivity": 1,
@@ -6139,10 +6144,10 @@
     },
     "5": {
       "state": {
-        "lightlevel": 10635,
+        "lightlevel": 4573,
         "dark": false,
         "daylight": false,
-        "lastupdated": "2020-12-05T22:13:51"
+        "lastupdated": "2020-12-06T01:13:04"
       },
       "swupdate": {
         "state": "noupdates",
@@ -6150,7 +6155,7 @@
       },
       "config": {
         "on": true,
-        "battery": 97,
+        "battery": 98,
         "reachable": true,
         "alert": "none",
         "tholddark": 4313,
@@ -6174,7 +6179,7 @@
     "6": {
       "state": {
         "temperature": 1811,
-        "lastupdated": "2020-12-05T22:13:41"
+        "lastupdated": "2020-12-06T01:13:23"
       },
       "swupdate": {
         "state": "noupdates",
@@ -6182,7 +6187,7 @@
       },
       "config": {
         "on": true,
-        "battery": 97,
+        "battery": 98,
         "reachable": true,
         "alert": "none",
         "ledindication": false,
@@ -6204,7 +6209,7 @@
     "8": {
       "state": {
         "presence": false,
-        "lastupdated": "2020-12-05T22:15:28"
+        "lastupdated": "2020-12-06T01:10:57"
       },
       "swupdate": {
         "state": "noupdates",
@@ -6235,10 +6240,10 @@
     },
     "9": {
       "state": {
-        "lightlevel": 10466,
+        "lightlevel": 8936,
         "dark": true,
         "daylight": false,
-        "lastupdated": "2020-12-05T22:15:43"
+        "lastupdated": "2020-12-06T01:10:20"
       },
       "swupdate": {
         "state": "noupdates",
@@ -6269,8 +6274,8 @@
     },
     "10": {
       "state": {
-        "temperature": 1925,
-        "lastupdated": "2020-12-05T22:17:23"
+        "temperature": 1967,
+        "lastupdated": "2020-12-06T01:12:01"
       },
       "swupdate": {
         "state": "noupdates",
@@ -6300,7 +6305,7 @@
     "13": {
       "state": {
         "status": 1,
-        "lastupdated": "2020-12-05T22:13:58"
+        "lastupdated": "2020-12-06T01:10:40"
       },
       "config": {
         "on": true,
@@ -6317,7 +6322,7 @@
     "14": {
       "state": {
         "status": 0,
-        "lastupdated": "2020-12-05T22:13:58"
+        "lastupdated": "2020-12-06T01:10:40"
       },
       "config": {
         "on": true,
@@ -6368,7 +6373,7 @@
     "17": {
       "state": {
         "status": 0,
-        "lastupdated": "2020-12-05T21:33:33"
+        "lastupdated": "2020-12-06T01:06:56"
       },
       "config": {
         "on": true,
@@ -6419,7 +6424,7 @@
         "usertest": false,
         "pending": []
       },
-      "name": "Office Motion Detector",
+      "name": "Office Motion Sensor",
       "type": "ZLLPresence",
       "modelid": "SML001",
       "manufacturername": "Signify Netherlands B.V.",
@@ -6433,10 +6438,10 @@
     },
     "20": {
       "state": {
-        "lightlevel": 21797,
-        "dark": false,
+        "lightlevel": 5337,
+        "dark": true,
         "daylight": false,
-        "lastupdated": "2020-12-05T22:16:20"
+        "lastupdated": "2020-12-06T01:11:04"
       },
       "swupdate": {
         "state": "noupdates",
@@ -6467,8 +6472,8 @@
     },
     "21": {
       "state": {
-        "temperature": 1779,
-        "lastupdated": "2020-12-05T22:16:15"
+        "temperature": 1793,
+        "lastupdated": "2020-12-06T01:10:59"
       },
       "swupdate": {
         "state": "noupdates",
@@ -6498,7 +6503,7 @@
     "24": {
       "state": {
         "status": 0,
-        "lastupdated": "2020-12-05T21:33:33"
+        "lastupdated": "2020-12-06T01:06:56"
       },
       "config": {
         "on": true,
@@ -6514,8 +6519,8 @@
     },
     "25": {
       "state": {
-        "status": 1,
-        "lastupdated": "2020-12-05T15:46:56"
+        "status": 0,
+        "lastupdated": "2020-12-06T00:11:10"
       },
       "config": {
         "on": true,
