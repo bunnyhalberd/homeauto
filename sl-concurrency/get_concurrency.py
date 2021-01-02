@@ -26,30 +26,27 @@ def get_concurrency():
     code = llsd.parse_xml(r.content)
 
     concurrency = code["stats"]["inworld"]
-    logging.info('concurrency: %d', concurrency)
+    logging.info("concurrency: %d", concurrency)
 
     return concurrency
 
 
 def publish_concurrency(concurrency):
 
-    logging.debug('publishing %d', concurrency)
+    logging.debug("publishing %d", concurrency)
 
-    data = {
-        'concurrency': concurrency
-    }
+    data = {"concurrency": concurrency}
 
-    client = mqtt.Client('SL Concurrency Thingy')
-    
-    client.connect('home.opsnlops.io', port=1883, keepalive=60, bind_address="")
-    logging.debug('connected')
+    client = mqtt.Client("SL Concurrency Thingy")
 
+    client.connect("home.opsnlops.io", port=1883, keepalive=60, bind_address="")
+    logging.debug("connected")
 
     client.publish("sl/concurrency", json.dumps(data))
-    logging.debug('published')
+    logging.debug("published")
 
     client.disconnect()
-    logging.debug('disconnect')
+    logging.debug("disconnect")
 
 
 if __name__ == "__main__":
