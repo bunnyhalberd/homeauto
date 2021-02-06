@@ -6,7 +6,6 @@
 
 import logging
 import requests
-import json
 from time import sleep
 
 from llbase import llsd
@@ -37,14 +36,12 @@ def publish_concurrency(concurrency):
 
     logging.debug("publishing %d", concurrency)
 
-    data = {"concurrency": concurrency}
-
     client = mqtt.Client("SL Concurrency Thingy")
 
     client.connect("home.opsnlops.io", port=1883, keepalive=60, bind_address="")
     logging.debug("connected")
 
-    client.publish("sl/concurrency", json.dumps(data))
+    client.publish("external/secondlife/concurrency", concurrency)
     logging.debug("published")
 
     client.disconnect()
@@ -54,7 +51,7 @@ def publish_concurrency(concurrency):
 if __name__ == "__main__":
 
     logging.basicConfig(
-        format="%(asctime)s - %(levelname)s - %(message)s", level=logging.DEBUG
+        format="%(asctime)s - %(levelname)s - %(message)s", level=logging.INFO
     )
 
     while True:
