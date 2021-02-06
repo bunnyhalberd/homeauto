@@ -1,6 +1,6 @@
 
 # Ignore the Python virtual environment
-.venv/
+venv/
 
 # Node artifact files
 node_modules/
